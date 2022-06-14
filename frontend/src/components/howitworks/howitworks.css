@@ -1,0 +1,65 @@
+.howItWorks{
+    flex: 3;
+    position: absolute;
+    width: 100%;
+    height: 750px;
+    left: 0px;
+    top: 784px;
+    font-family: 'Montserrat';  
+    background-color: #EF5123;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.howItWorksBox{
+    position: absolute;
+    width: 688px;
+    height: 180px;
+    left: 81px;
+    top: 235px; 
+    font-size: 75px;
+    font-weight: 500;
+    line-height: 91.43px;
+}
+
+.howItWorksText{
+    width: 732px;
+    height: 285px;
+    left: 104px;
+    top: 1016px;    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 73px; 
+    color: #000000;
+}
+
+.howItWorksSelectText{
+    width: 732px;
+    height: 285px;
+    left: 104px;
+    top: 1016px;    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 73px; 
+    color: white;
+}
+.howItWorksImg{
+    position: absolute;
+    width: 820px;
+    height: 687px;
+    left: 800px;
+    top: -205px;
+    transform: rotate(8.4deg);
+
+}
+.howItWorksBall{
+    position: absolute;
+    bottom: -50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: black;
+    right: 50%;
+    background-color: #EF5123;
+}
